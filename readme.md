@@ -51,8 +51,19 @@ This is the hw02 sample. Please follow the steps below.
 
 --------------------
 
-- [x] **If you volunteer to give the presentation next week, check this.**
+
 
 --------------------
 
-Please take your note here.
+## 1. 實驗題目 
+1.觀察push與pop的功能
+2.變更暫存器順序後是否影響結果？
+## 2. 實驗步驟
+1. 利用終端機觀察出暫存器的變化
+2. 將暫存器順序r1,r2,r3,r4改變成r4,r3,r2,r1
+## 3. 結果與討論up
+由https://upload.cc/i1/2019/03/14/1VljMu.png
+可看出改變了push的暫存器順序,
+當變更完程式後,可以看到結果https://upload.cc/i1/2019/03/14/1hUVOn.png
+在push
+的暫存器順序以經自動更改成r1,r2,r3,r4
